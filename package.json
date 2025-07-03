@@ -1,0 +1,8 @@
+{
+  "name": "member-profile-generator",
+  "version": "1.0.0",
+  "main": "api/generate-profile.js",
+  "type": "commonjs",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
